@@ -1,4 +1,4 @@
-DemoBlaze Automation Framework (Selenium + TestNG + Maven)
+Fintech Automation Framework (Selenium + TestNG + Maven)
 
 Structure:
 - src/main/java : Page Objects
@@ -6,7 +6,7 @@ Structure:
 - testng.xml : TestNG suite
 
 Notes:
-- Page object locators are placeholders (TODO). Fill them to match the live site.
+- Page object locators are placeholders 
 - To run from CLI:
     mvn clean test
 
